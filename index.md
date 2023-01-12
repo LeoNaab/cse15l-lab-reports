@@ -7,7 +7,7 @@
 \
 \
 \
-[Link](https://www.loc.gov/resource/gtfy.07935/?st=image)
+[link](https://www.loc.gov/resource/gtfy.07935/)
 \
 \
 \
