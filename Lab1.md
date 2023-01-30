@@ -3,6 +3,7 @@ In this lab we go through a tutorial on how to install VScode, how to connect re
 the UCSD servers, and how to use file system commands in the virtual or local directories. 
 
 <br/>
+<br/>
 
 ## Step 1: Installing VScode
 While I already had VScode installed, so I didn't have to do it in lab, I do know the steps.
