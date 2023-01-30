@@ -14,8 +14,8 @@ the instructions. Once it is open it will look something like this on Windows:
 _Here we can see visual studio open and working on the home page._  
 
 
-</br>
-</br>
+<br/>
+<br/>
 
 ## Step 2: Remotely connecting
 If you're on Windows like me, your first step will be to install git bash so the command interface is consistent with
@@ -35,8 +35,8 @@ you should see an output that looks like this:
 _Here we see that I was logged into the 201 server, one of three._ 
 
 
-</br>
-</br>
+<br/>
+<br/>
 
 ## Step 3: Trying some commands
 Now that we're connected to the remote server, we can use the same directory commands we learned about for local files
@@ -61,7 +61,8 @@ attempted to view the files in his repository by using the 'ls' command, but it 
 
 The other commands show that this directory works just like our local directories.
 
-</br>
+<br/>
+<br/>
 
 ## Resources
 Links to additional resources or further reading for those who want to learn more.
