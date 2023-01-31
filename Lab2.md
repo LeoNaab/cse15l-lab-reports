@@ -204,7 +204,8 @@ static List<String> merge(List<String> list1, List<String> list2) {
 The fix was actually quite simple. The issue was that once one list is entirely added to the new sorted list, all
 of the remaining elements in the other list must be added to the end of the merged list. This was accomplished
 with two while loops. However, in one of the while loops, the index was index1 when it needed to be index2. 
-This caused an infinite loop.
+This caused an infinite loop. However, the infinite loop will only occur when the second array has the last
+element alphabetically.
 
 ## Step 3: What I learned
 One of the coolest things I learned in these labs was just how server hosting works. I had no idea 
