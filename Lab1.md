@@ -11,7 +11,6 @@ The first step is to go to https://code.visualstudio.com/ and download the progr
 the instructions. Once it is open it will look something like this on Windows:
 
 ![Step 1 Screenshot](images/L1s1.png)
-
 _Here we can see visual studio open and working on the home page._  
 
 
