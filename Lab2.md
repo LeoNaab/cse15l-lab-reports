@@ -1,4 +1,4 @@
-# Servers and Bugs
+# Lab 2 Report: Servers and Bugs
 In this lab we look at how servers host a website, and also go over debugging ideas and technique. We
 will look at how to make a program that handles requests in the form of URI paths, and how to 
 make a website with that in mind. And for debuggin we will look at the core definition of
@@ -206,12 +206,14 @@ of the remaining elements in the other list must be added to the end of the merg
 with two while loops. However, in one of the while loops, the index was index1 when it needed to be index2. 
 This caused an infinite loop.
 
-## Step 3
+## Step 3: What I learned
 One of the coolest things I learned in these labs was just how server hosting works. I had no idea 
 about how local web servers were a thing either. 
 
 
 I also really appreciate having a formal and structured way of thinking about bugs and debugging.
+
+And also I finally understand JUnit through the command line.
 
 ## Resources
 
